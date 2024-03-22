@@ -1,0 +1,7 @@
+Interest count がInterest Packetのカウントのみを行っている
+
+Pro-con がProducerとConsumer上で２つの機会がグレースケールなどの関数をやり取りしている
+
+Forwarderαdd が上記にForwarderを追加したバージョン
+
+詳しいことはForwarderαdd のReadmeを参考にしてください
